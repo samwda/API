@@ -89,7 +89,7 @@ curl -X GET "https://samwda.ir/api/?action=check&key=ABC123-XYZ789&site_url=http
 ```json
 {
   "license_key": "ABC123-XYZ789",
-\  "site_url": "https://samwda.ir/",
+  "site_url": "https://samwda.ir/",
   "api_token": "YOUR_API_TOKEN"
 }
 ```
