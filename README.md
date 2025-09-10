@@ -146,7 +146,7 @@ curl -X POST "https://samwda.ir/api/?action=deactivate" \
 
 ---
 
-## 🔐 Security
+## 🫆 Security
 
 Security is at the core of License Manager:
 
@@ -164,6 +164,24 @@ Security is at the core of License Manager:
 - **Best Practices:**  
   - Secure storage of license keys and tokens.  
   - Regular security audits and updates.
+
+---
+
+## 🔐 Samwda License Check Form
+
+This is a **graphical license check form**. Enter your license key and optionally a site URL to see if the license is active. The response is displayed in a clean visual format with signature verification.
+
+**How to use:**
+1. Enter your license key in the "License Key" field.
+2. Optionally enter a site URL to check if the license is active on that site.
+3. Click "Check License".
+4. The form will show:
+   - License status (Active / Inactive)
+   - Expiration date (or Unlimited)
+   - Site activation status (if URL provided)
+
+**Address:**  
+`https://samwda.ir/api/check/`
 
 ---
 
