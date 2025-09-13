@@ -1,6 +1,6 @@
 # 🔐  api مدیریت لایسنس آژانس طراحی سایت سام
 
-![API Version](https://img.shields.io/badge/API-v1.0-blue.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![API Version](https://img.shields.io/badge/API-v1.0-blue.svg)
 
 ## 🚀 معرفی
 
@@ -182,12 +182,6 @@ curl -X POST "https://samwda.ir/api/?action=deactivate" \
 
 **آدرس:**  
 `https://samwda.ir/api/check/`
-
----
-
-## 📄 مجوز
-
-© 2025 سید احمدرضا محجوب، کلیه حقوق محفوظ است.
 
 ---
 
