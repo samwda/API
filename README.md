@@ -1,6 +1,6 @@
 # 🔐 Sam Web Design Agency License Management API
 
-![API Version](https://img.shields.io/badge/API-v1.0-blue.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![API Version](https://img.shields.io/badge/API-v1.0-blue.svg)
 
 ## 🚀 Overview
 
@@ -182,12 +182,6 @@ This is a **graphical license check form**. Enter your license key and optionall
 
 **Address:**  
 `https://samwda.ir/api/check/`
-
----
-
-## 📄 License
-
-© 2025 Seyyed Ahmadreza Mahjoob, All Rights Reserved.
 
 ---
 
